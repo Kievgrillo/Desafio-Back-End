@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nE3+3MQ9pWE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\DigitalWallet.Application\\DigitalWallet.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Keven\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
+    "C:\\Users\\Keven\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
+    "C:\\Users\\Keven\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Keven\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9272D88-F239-4C54-8E0C-88E9730FAE56}|DigitalWallet.Application\\DigitalWallet.Application.csproj|c:\\users\\keven\\repositorios\\carteira digital\\carteira digital\\digitalwallet.application\\features\\auth\\register\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9272D88-F239-4C54-8E0C-88E9730FAE56}|DigitalWallet.Application\\DigitalWallet.Application.csproj|solutionrelative:digitalwallet.application\\features\\auth\\register\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9272D88-F239-4C54-8E0C-88E9730FAE56}|DigitalWallet.Application\\DigitalWallet.Application.csproj|c:\\users\\keven\\repositorios\\carteira digital\\carteira digital\\digitalwallet.application\\features\\wallet\\getbalance\\balancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9272D88-F239-4C54-8E0C-88E9730FAE56}|DigitalWallet.Application\\DigitalWallet.Application.csproj|solutionrelative:digitalwallet.application\\features\\wallet\\getbalance\\balancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9272D88-F239-4C54-8E0C-88E9730FAE56}|DigitalWallet.Application\\DigitalWallet.Application.csproj|c:\\users\\keven\\repositorios\\carteira digital\\carteira digital\\digitalwallet.application\\features\\wallet\\deposit\\depositdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9272D88-F239-4C54-8E0C-88E9730FAE56}|DigitalWallet.Application\\DigitalWallet.Application.csproj|solutionrelative:digitalwallet.application\\features\\wallet\\deposit\\depositdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9272D88-F239-4C54-8E0C-88E9730FAE56}|DigitalWallet.Application\\DigitalWallet.Application.csproj|c:\\users\\keven\\repositorios\\carteira digital\\carteira digital\\digitalwallet.application\\features\\auth\\login\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9272D88-F239-4C54-8E0C-88E9730FAE56}|DigitalWallet.Application\\DigitalWallet.Application.csproj|solutionrelative:digitalwallet.application\\features\\auth\\login\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F00248C-562A-4BD8-B44A-A07EEACCD97A}|Carteira Digital\\Carteira Digital.csproj|c:\\users\\keven\\repositorios\\carteira digital\\carteira digital\\carteira digital\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F00248C-562A-4BD8-B44A-A07EEACCD97A}|Carteira Digital\\Carteira Digital.csproj|solutionrelative:carteira digital\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F00248C-562A-4BD8-B44A-A07EEACCD97A}|Carteira Digital\\Carteira Digital.csproj|c:\\users\\keven\\repositorios\\carteira digital\\carteira digital\\carteira digital\\controllers\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F00248C-562A-4BD8-B44A-A07EEACCD97A}|Carteira Digital\\Carteira Digital.csproj|solutionrelative:carteira digital\\controllers\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F00248C-562A-4BD8-B44A-A07EEACCD97A}|Carteira Digital\\Carteira Digital.csproj|c:\\users\\keven\\repositorios\\carteira digital\\carteira digital\\carteira digital\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F00248C-562A-4BD8-B44A-A07EEACCD97A}|Carteira Digital\\Carteira Digital.csproj|solutionrelative:carteira digital\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157DCF1B-F00E-4093-9D7E-9D4120136797}|DigitalWallet.Infrastructure\\DigitalWallet.Infrastructure.csproj|c:\\users\\keven\\repositorios\\carteira digital\\carteira digital\\digitalwallet.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157DCF1B-F00E-4093-9D7E-9D4120136797}|DigitalWallet.Infrastructure\\DigitalWallet.Infrastructure.csproj|solutionrelative:digitalwallet.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286F59D6-13F0-4D39-B2FC-58028ECC5FB1}|DigitalWallet.Tests\\DigitalWallet.Tests.csproj|c:\\users\\keven\\repositorios\\carteira digital\\carteira digital\\digitalwallet.tests\\integrationstests\\authtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286F59D6-13F0-4D39-B2FC-58028ECC5FB1}|DigitalWallet.Tests\\DigitalWallet.Tests.csproj|solutionrelative:digitalwallet.tests\\integrationstests\\authtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6F392D-C94E-4280-AE02-1AAB4CFDB56A}|DigitalWallet.Core\\DigitalWallet.Core.csproj|c:\\users\\keven\\repositorios\\carteira digital\\carteira digital\\digitalwallet.core\\interfaces\\iwalletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6F392D-C94E-4280-AE02-1AAB4CFDB56A}|DigitalWallet.Core\\DigitalWallet.Core.csproj|solutionrelative:digitalwallet.core\\interfaces\\iwalletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157DCF1B-F00E-4093-9D7E-9D4120136797}|DigitalWallet.Infrastructure\\DigitalWallet.Infrastructure.csproj|c:\\users\\keven\\repositorios\\carteira digital\\carteira digital\\digitalwallet.infrastructure\\repositories\\walletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157DCF1B-F00E-4093-9D7E-9D4120136797}|DigitalWallet.Infrastructure\\DigitalWallet.Infrastructure.csproj|solutionrelative:digitalwallet.infrastructure\\repositories\\walletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9272D88-F239-4C54-8E0C-88E9730FAE56}|DigitalWallet.Application\\DigitalWallet.Application.csproj|c:\\users\\keven\\repositorios\\carteira digital\\carteira digital\\digitalwallet.application\\features\\wallet\\deposit\\depositcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9272D88-F239-4C54-8E0C-88E9730FAE56}|DigitalWallet.Application\\DigitalWallet.Application.csproj|solutionrelative:digitalwallet.application\\features\\wallet\\deposit\\depositcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157DCF1B-F00E-4093-9D7E-9D4120136797}|DigitalWallet.Infrastructure\\DigitalWallet.Infrastructure.csproj|c:\\users\\keven\\repositorios\\carteira digital\\carteira digital\\digitalwallet.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157DCF1B-F00E-4093-9D7E-9D4120136797}|DigitalWallet.Infrastructure\\DigitalWallet.Infrastructure.csproj|solutionrelative:digitalwallet.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6F392D-C94E-4280-AE02-1AAB4CFDB56A}|DigitalWallet.Core\\DigitalWallet.Core.csproj|c:\\users\\keven\\repositorios\\carteira digital\\carteira digital\\digitalwallet.core\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6F392D-C94E-4280-AE02-1AAB4CFDB56A}|DigitalWallet.Core\\DigitalWallet.Core.csproj|solutionrelative:digitalwallet.core\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6F392D-C94E-4280-AE02-1AAB4CFDB56A}|DigitalWallet.Core\\DigitalWallet.Core.csproj|c:\\users\\keven\\repositorios\\carteira digital\\carteira digital\\digitalwallet.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6F392D-C94E-4280-AE02-1AAB4CFDB56A}|DigitalWallet.Core\\DigitalWallet.Core.csproj|solutionrelative:digitalwallet.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BalanceDto.cs",
+              "DocumentMoniker": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\DigitalWallet.Application\\Features\\Wallet\\GetBalance\\BalanceDto.cs",
+              "RelativeDocumentMoniker": "DigitalWallet.Application\\Features\\Wallet\\GetBalance\\BalanceDto.cs",
+              "ToolTip": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\DigitalWallet.Application\\Features\\Wallet\\GetBalance\\BalanceDto.cs",
+              "RelativeToolTip": "DigitalWallet.Application\\Features\\Wallet\\GetBalance\\BalanceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:06:51.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepositDto.cs",
+              "DocumentMoniker": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\DigitalWallet.Application\\Features\\Wallet\\Deposit\\DepositDto.cs",
+              "RelativeDocumentMoniker": "DigitalWallet.Application\\Features\\Wallet\\Deposit\\DepositDto.cs",
+              "ToolTip": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\DigitalWallet.Application\\Features\\Wallet\\Deposit\\DepositDto.cs",
+              "RelativeToolTip": "DigitalWallet.Application\\Features\\Wallet\\Deposit\\DepositDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:02:36.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\DigitalWallet.Application\\Features\\Auth\\Login\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DigitalWallet.Application\\Features\\Auth\\Login\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\DigitalWallet.Application\\Features\\Auth\\Login\\LoginDto.cs",
+              "RelativeToolTip": "DigitalWallet.Application\\Features\\Auth\\Login\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:02:10.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\DigitalWallet.Application\\Features\\Auth\\Register\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "DigitalWallet.Application\\Features\\Auth\\Register\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\DigitalWallet.Application\\Features\\Auth\\Register\\RegisterDto.cs",
+              "RelativeToolTip": "DigitalWallet.Application\\Features\\Auth\\Register\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:01:48.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\Carteira Digital\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "Carteira Digital\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\Carteira Digital\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "Carteira Digital\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T21:58:46.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthTests.cs",
+              "DocumentMoniker": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\DigitalWallet.Tests\\IntegrationsTests\\AuthTests.cs",
+              "RelativeDocumentMoniker": "DigitalWallet.Tests\\IntegrationsTests\\AuthTests.cs",
+              "ToolTip": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\DigitalWallet.Tests\\IntegrationsTests\\AuthTests.cs",
+              "RelativeToolTip": "DigitalWallet.Tests\\IntegrationsTests\\AuthTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T21:18:28.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\DigitalWallet.Infrastructure\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "DigitalWallet.Infrastructure\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\DigitalWallet.Infrastructure\\Services\\TokenService.cs",
+              "RelativeToolTip": "DigitalWallet.Infrastructure\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:45:00.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WalletRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\DigitalWallet.Infrastructure\\Repositories\\WalletRepository.cs",
+              "RelativeDocumentMoniker": "DigitalWallet.Infrastructure\\Repositories\\WalletRepository.cs",
+              "ToolTip": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\DigitalWallet.Infrastructure\\Repositories\\WalletRepository.cs",
+              "RelativeToolTip": "DigitalWallet.Infrastructure\\Repositories\\WalletRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:43:37.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IWalletRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\DigitalWallet.Core\\Interfaces\\IWalletRepository.cs",
+              "RelativeDocumentMoniker": "DigitalWallet.Core\\Interfaces\\IWalletRepository.cs",
+              "ToolTip": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\DigitalWallet.Core\\Interfaces\\IWalletRepository.cs",
+              "RelativeToolTip": "DigitalWallet.Core\\Interfaces\\IWalletRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:40:36.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DepositCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\DigitalWallet.Application\\Features\\Wallet\\Deposit\\DepositCommand.cs",
+              "RelativeDocumentMoniker": "DigitalWallet.Application\\Features\\Wallet\\Deposit\\DepositCommand.cs",
+              "ToolTip": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\DigitalWallet.Application\\Features\\Wallet\\Deposit\\DepositCommand.cs",
+              "RelativeToolTip": "DigitalWallet.Application\\Features\\Wallet\\Deposit\\DepositCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:35:34.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WalletController.cs",
+              "DocumentMoniker": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\Carteira Digital\\Controllers\\WalletController.cs",
+              "RelativeDocumentMoniker": "Carteira Digital\\Controllers\\WalletController.cs",
+              "ToolTip": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\Carteira Digital\\Controllers\\WalletController.cs",
+              "RelativeToolTip": "Carteira Digital\\Controllers\\WalletController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:33:38.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\Carteira Digital\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Carteira Digital\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\Carteira Digital\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Carteira Digital\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:33:24.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\DigitalWallet.Core\\Entities\\Wallet.cs",
+              "RelativeDocumentMoniker": "DigitalWallet.Core\\Entities\\Wallet.cs",
+              "ToolTip": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\DigitalWallet.Core\\Entities\\Wallet.cs",
+              "RelativeToolTip": "DigitalWallet.Core\\Entities\\Wallet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:30:40.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\DigitalWallet.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DigitalWallet.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\DigitalWallet.Core\\Entities\\User.cs",
+              "RelativeToolTip": "DigitalWallet.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:12:25.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\DigitalWallet.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DigitalWallet.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Keven\\Repositorios\\Carteira Digital\\Carteira Digital\\DigitalWallet.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "DigitalWallet.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T19:35:47.011Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 208,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a975660a-81e4-4830-aa25-1b824c3bf732}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
